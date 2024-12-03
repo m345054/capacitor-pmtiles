@@ -1,0 +1,6 @@
+{
+  "appId": "com.capacitor.pmtiles",
+  "appName": "capacitor-pmtiles",
+  "webDir": "dist",
+  "plugins": {}
+}
